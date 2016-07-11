@@ -2,8 +2,8 @@
 
 hi 
 
-just another kid doing a bit of code. /p
-know alot about code? /<np>
+just another kid doing a bit of code.
+know alot about code? 
   help me out :D
   
 
